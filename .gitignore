@@ -1,3 +1,5 @@
 node_modules/
 local/
 local.meta
+secret.ts
+dist/
